@@ -73,13 +73,9 @@ project-root/
 ---
 
 ## **Why Use This Makefile?**
-✅ Automates compilation and execution.
-✅ Tracks dependencies for efficient rebuilding.
-✅ Makes it easy to clean up compiled files.
-✅ Works on Linux/macOS.
-
----
-
-Happy coding! 🚀
+- Automates compilation and execution.
+- Tracks dependencies for efficient rebuilding.
+- Makes it easy to clean up compiled files.
+- Works on Linux/macOS.
 
 
